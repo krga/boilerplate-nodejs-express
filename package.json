@@ -1,0 +1,16 @@
+{
+  "name": "boilerplate-nodejs-express",
+  "version": "1.0.0",
+  "description": "A simple boilerplate for writing Node.js apps using express for routing",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Kristian Gavran",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "5.0.0",
+    "express": "4.16.2"
+  }
+}
